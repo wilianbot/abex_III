@@ -13,5 +13,5 @@
 - Rudivan Zonta de Oliveira
 
 ## Descrição do Projeto
-Brainstorm desenvolvido entre os entregantes com o objetivo de obter metas mais claras a respeito de nosso projeto, assim indentificanto pontos cruciais.
-Neste Projeto visamos desenvolver uma automação em forma de uma página.
+O projeto consiste na criação de uma página web para otimizar tarefas de estabelecimentos voltados para camping e alimentação, especialmente para o Caça e Pesca Sítio Sottili.
+Também visa aprimorar a experiência dos usuários, oferencendo uma série de recursos para simplificar as interações entre clientes e funcionários.
