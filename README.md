@@ -17,4 +17,4 @@ O projeto consiste na criação de uma página web para otimizar tarefas de esta
 Também visa aprimorar a experiência dos usuários, oferencendo uma série de recursos para simplificar as interações entre clientes e funcionários.
 
 ## Diagrama de implementação
-[Diagrama]([https://online.visual-paradigm.com/share.jsp?id=333537303435392d31](https://drive.google.com/file/d/1RvS7RkBqp2vJU-aEQUPPK5spJ4oJ_8Nw/view?usp=sharing))
+[Diagrama](https://drive.google.com/file/d/1RvS7RkBqp2vJU-aEQUPPK5spJ4oJ_8Nw/view?usp=sharing)
