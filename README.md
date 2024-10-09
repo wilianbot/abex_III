@@ -17,4 +17,8 @@ O projeto consiste na criação de uma página web para otimizar tarefas de esta
 Também visa aprimorar a experiência dos usuários, oferencendo uma série de recursos para simplificar as interações entre clientes e funcionários.
 
 ## Diagrama de implementação
-[Diagrama](https://drive.google.com/file/d/1RvS7RkBqp2vJU-aEQUPPK5spJ4oJ_8Nw/view?usp=sharing)
+[Diagrama de implementação draw.io](https://drive.google.com/file/d/1RvS7RkBqp2vJU-aEQUPPK5spJ4oJ_8Nw/view?usp=sharing)
+
+
+## Diagrama de Entidade e Relacionamento
+[Diagrama de entidade e relacionamento draw.io](https://app.diagrams.net/#G1CnmfagB-XcqRVVFkxK-YQoRFYJak-1sF#%7B%22pageId%22%3A%22R2lEEEUBdFMjLlhIrx00%22%7D)
