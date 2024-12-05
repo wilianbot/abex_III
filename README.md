@@ -19,7 +19,8 @@
 [Diagrama de implementação draw.io](https://drive.google.com/file/d/1RvS7RkBqp2vJU-aEQUPPK5spJ4oJ_8Nw/view?usp=sharing)
 
 ## Diagrama de Entidade e Relacionamento
-[Diagrama de entidade e relacionamento draw.io](https://app.diagrams.net/#G1CnmfagB-XcqRVVFkxK-YQoRFYJak-1sF#%7B%22pageId%22%3A%22R2lEEEUBdFMjLlhIrx00%22%7D)
+[Diagrama de Entidade e Relacionamento](https://github.com/user-attachments/assets/3fb8d8e1-99c3-4eec-96c7-077120484bba)
+
 
 ***
 
