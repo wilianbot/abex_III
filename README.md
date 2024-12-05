@@ -16,11 +16,10 @@
 [Templates para atividades práticas Adaptado](https://docs.google.com/presentation/d/1yLY3suFHvZKG9k30_dwhl2oktnT-NDQ2w4NEHFfX1pA/edit?pli=1#slide=id.p7)
 
 ## Diagrama de implementação
-[Diagrama de implementação draw.io](https://drive.google.com/file/d/1RvS7RkBqp2vJU-aEQUPPK5spJ4oJ_8Nw/view?usp=sharing)
+[Diagrama de Implementação drawio](https://github.com/user-attachments/assets/1ef64cb1-2176-45d0-8a60-e998882050b9)
 
 ## Diagrama de Entidade e Relacionamento
-[Diagrama de Entidade e Relacionamento](https://github.com/user-attachments/assets/3fb8d8e1-99c3-4eec-96c7-077120484bba)
-
+[Diagrama de Entidade e Relacionamento drawio](https://github.com/user-attachments/assets/e3ed0e58-4620-4b9d-b5ae-e780db927184)
 
 ***
 
